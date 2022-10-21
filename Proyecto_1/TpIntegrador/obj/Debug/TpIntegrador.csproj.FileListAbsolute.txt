@@ -1,0 +1,6 @@
+C:\Users\maria\OneDrive\Escritorio\ALGO_TPINT\Proyecto_1\TpIntegrador\bin\Debug\TpIntegrador.exe.config
+C:\Users\maria\OneDrive\Escritorio\ALGO_TPINT\Proyecto_1\TpIntegrador\bin\Debug\TpIntegrador.exe
+C:\Users\maria\OneDrive\Escritorio\ALGO_TPINT\Proyecto_1\TpIntegrador\bin\Debug\TpIntegrador.pdb
+C:\Users\maria\OneDrive\Escritorio\ALGO_TPINT\Proyecto_1\TpIntegrador\obj\Debug\TpIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\ALGO_TPINT\Proyecto_1\TpIntegrador\obj\Debug\TpIntegrador.exe
+C:\Users\maria\OneDrive\Escritorio\ALGO_TPINT\Proyecto_1\TpIntegrador\obj\Debug\TpIntegrador.pdb
